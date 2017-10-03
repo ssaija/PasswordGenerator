@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="kps.app" version="1.0.0">
-  <name>KPS</name>
+<widget id="passwordgenerator.app" version="1.0.0">
+  <name>Password Generator</name>
   <description>
-    Kivi paperi sakset peli
+    Password Generator
   </description>
-  <author email="tero.ulvinen@edu.vaasa.fi" href="http://vao.fi">
-    TUL
+    SA
   </author>
 </widget>

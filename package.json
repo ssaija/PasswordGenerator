@@ -1,8 +1,8 @@
 {
-  "title": "KPS",
-  "description": "Tabris.js - KPS",
+  "title": "Password Generator",
+  "description": "Tabris.js - Password Generator",
   "category": "Small Apps",
-  "main": "src/kps.js",
+  "main": "src/PassworGenerator.js",
   "dependencies": {
     "tabris": "^2.1.0"
   }

@@ -21,7 +21,7 @@ button.on('select', arvoMerkki).appendTo(ui.contentView);
 
 function arvoMerkki() {
             shuffle(merkit); //kutsu taulukon solujen sekoitusta
-			// n‰yt‰ sekoitetusta taulukosta 8 solua
+			// n√§yt√§ sekoitetusta taulukosta 8 solua
 			naytamerkki.text = 'Miten olisi: ' + merkit[20] + merkit[31] + merkit[29] + merkit[32] + merkit[28] + merkit[25] + merkit[33] + merkit[34];
 }
 
